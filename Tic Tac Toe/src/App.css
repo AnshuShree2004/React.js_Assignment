@@ -1,0 +1,15 @@
+#root {
+ 
+  --yellow: #ffd103;
+  --resetGreen: #28a745;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: black;
+  text-align: center;
+}
+
