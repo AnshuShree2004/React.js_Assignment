@@ -1,9 +1,9 @@
-function List(props) {
+function List({items}) {
 
     return (
         <>
         <ul>
-            {props.items.map((item, index) => (
+            {items.map((item, index) => (
                 <li key={index}>{item}</li>
             ))}
         </ul>

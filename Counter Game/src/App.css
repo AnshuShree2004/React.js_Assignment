@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #F0DE36;
+  height: 300px;
+  width: 300px;
+ 
+}
+
+#root .container{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+#root .container div{
+  font-size: 95px;
+}
+
+#root button{
+  background-color: #0D1282;
+  color: white;
+  margin: 0 12px;
+}
