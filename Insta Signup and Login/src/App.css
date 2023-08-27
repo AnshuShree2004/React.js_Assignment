@@ -1,0 +1,71 @@
+*{
+  margin:  0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.container {
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 470px;
+  margin: 0 auto;
+  width: 400px;
+  border: 1px solid white;
+  box-shadow: 6px 6px 10px rgb(84, 80, 80);
+  margin-top: 9%;
+}
+
+img{
+  height: 100px;
+  padding: 10px 0;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+
+input {
+  font-family: 'Urbanist', sans-serif;
+  height: 40px;
+  width: 70%;
+  margin: 5px;
+  padding: 5px ;
+}
+
+button {
+  font-family: 'Urbanist', sans-serif;
+ background-color: rgb(92, 161, 236);
+  margin-top: 15px;
+  font-size: 18px;
+  border: none;
+  color: white;
+}
+
+.login-btn {
+  padding: 10px 29.6%;
+}
+
+.signup-btn {
+  padding: 10px 28.2%;
+}
+
+p {
+  margin: 10px ;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(3, 126, 208);
+ 
+}
+
+
